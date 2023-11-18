@@ -1,0 +1,82 @@
+c:\users\eraser\documents\visual studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.exe
+c:\users\eraser\documents\visual studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\MetroFramework.dll
+c:\users\eraser\documents\visual studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\MetroFramework.Fonts.dll
+c:\users\eraser\documents\visual studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\MySql.Data.dll
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.exe.config
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\MetroFramework.Design.dll
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmAttendance.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmEvent.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmEventList.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmExcel.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmLogin.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmLogs.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmMain.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmSecurity.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmSelect.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmStudent.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmStudentList.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmWait.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.Resources.resources
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.vbproj.GenerateResource.Cache
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.exe
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.xml
+C:\Users\ERASER\Documents\Visual Studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.pdb
+C:\Users\ERASER\documents\visual studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.vbprojResolveAssemblyReference.cache
+C:\Users\ERASER\documents\visual studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.pdb
+C:\Users\ERASER\documents\visual studio 2015\Projects\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.xml
+H:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.exe.config
+H:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.exe
+H:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.xml
+H:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.pdb
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.exe.config
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.exe
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.xml
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.pdb
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.exe
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.pdb
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.xml
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\MetroFramework.Design.dll
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\MetroFramework.dll
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\MetroFramework.Fonts.dll
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\Tulpep.NotificationWindow.dll
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.vbprojResolveAssemblyReference.cache
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmAttendance.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmEvent.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmEventList.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmExcel.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmLogin.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmLogs.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmMain.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmSecurity.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmSelect.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmStudent.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmStudentList.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmWait.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.Resources.resources
+E:\2020 Projects\STI Frolics\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.vbproj.GenerateResource.Cache
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.exe.config
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.exe
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.xml
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.pdb
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.exe
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.pdb
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\RFID Based Event Attendance System.xml
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\MetroFramework.Design.dll
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\MetroFramework.dll
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.vbprojResolveAssemblyReference.cache
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmAttendance.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmEvent.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmEventList.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmLogin.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmLogs.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmMain.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmSecurity.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmSelect.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmStudent.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmStudentList.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.frmWait.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID_Based_Event_Attendance_System.Resources.resources
+C:\Users\joeme\OneDrive\Documents\2023 System\RFID Based Event Attendance System\RFID Based Event Attendance System\obj\Debug\RFID Based Event Attendance System.vbproj.GenerateResource.Cache
